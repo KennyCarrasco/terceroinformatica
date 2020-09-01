@@ -1,4 +1,29 @@
-body {
-	background-color: #62A6E3;
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+
+.contpri{
+	background-color: blue ;
 	color: white;
+	font-family: 'Krona One', sans-serif;
+	font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Peta', sans-serif;
 }
+.consecun{
+	background-color: red;
+	font-family: 'Krone One', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Peta', sans-serif;
+}
+.contenter{
+	background-color: green;
+	font-family: 'Krone One', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Peta', sans-serif;
+}
+section{
+	background-color:#62A6E3;
+	color:white;
+	text-decoration:underline;
+	text-align:center;
+	}
