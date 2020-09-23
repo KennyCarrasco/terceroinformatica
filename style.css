@@ -9,7 +9,7 @@
 	font-family: 'Russo One', sans-serif;
     font-family: 'Lexend Peta', sans-serif;
 }
-.consecun{
+.contsecun{
 	background-color: red;
 	font-family: 'Krone One', sans-serif;
     font-family: 'Russo One', sans-serif;
@@ -21,9 +21,20 @@
     font-family: 'Russo One', sans-serif;
     font-family: 'Lexend Peta', sans-serif;
 }
+li{
+list-style: none;
+float: left;
+padding: 15px;
+	}
+li:hover{
+	background-color: #FA8072;
+	border-radius: 15px;
+	}
+
 section{
 	background-color:#62A6E3;
 	color:white;
 	text-decoration:underline;
 	text-align:center;
 	}
+
